@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhiram
 
-<!--
-**abhiram736/abhiram736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious and passionate developer who enjoys turning ideas into reality through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,java,sql,bash" />
+</p>
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+---
+
+## ✨ About Me
+
+- I love solving real-world problems with code.  
+- I believe in writing clean and efficient code.  
+- Always learning, always building.
